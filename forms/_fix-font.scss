@@ -1,0 +1,14 @@
+/**
+ * 1. Address margins set differently in Firefox 4+, Safari 5, and Chrome.
+ * 2. Correct font size not being inherited in all browsers.
+ * 3. Correct font family not being inherited in all browsers.
+ */
+
+button,
+input,
+select,
+textarea {
+  margin: 0; /* 1 */
+  font-size: 100%; /* 2 */
+  font-family: inherit; /* 3 */
+}
