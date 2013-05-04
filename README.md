@@ -1,6 +1,6 @@
 # normalize.scss
 
-normalize.cssをルールごとに分け、scssで保存した。
+[normalize.css v2.1.1](https://github.com/necolas/normalize.css/)をルールごとに分け、scssで保存した。
 
 各プロジェクトで必要なものを@importして使用する。
 
